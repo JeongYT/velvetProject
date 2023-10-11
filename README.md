@@ -5,4 +5,4 @@
 
 # 구동모습
 
-
+![33](https://github.com/JeongYT/velvetProject/assets/131636199/9c5d87a4-1674-45ae-af19-e477f729995b)
